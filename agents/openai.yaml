@@ -1,6 +1,6 @@
 interface:
   display_name: "爆不爆｜孟哥AI选品裁判"
-  short_description: "自动抓取小红书与1688链接，用3标2源判断这个品到底爆不爆"
+  short_description: "快速读取小红书公开数据，用3标2源判断这个品到底爆不爆"
   default_prompt: "使用 $xiaohongshu-product-selection 抓取这些商品链接，马上告诉我哪个品爆不爆。"
 policy:
   allow_implicit_invocation: true
