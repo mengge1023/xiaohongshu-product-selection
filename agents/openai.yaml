@@ -1,0 +1,6 @@
+interface:
+  display_name: "小红书AI选品判断"
+  short_description: "按3标2源审核单品并比较AB商品优先级"
+  default_prompt: "使用 $xiaohongshu-product-selection 判断这个小红书商品是否值得测试。"
+policy:
+  allow_implicit_invocation: true
